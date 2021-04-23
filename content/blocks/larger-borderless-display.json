@@ -1,0 +1,17 @@
+{
+	"type": "LogicDisplay",
+	"name": "Larger Display (Borderless)",
+	"category": "logic",
+	"research": "large-logic-display",
+	"requirements": [
+		"lead/240",
+		"metaglass/120",
+		"silicon/180",
+		"phase-fabric/100"
+	],
+
+	"health": 4800,
+	"size": 8,
+	"displaySize": 256,
+	"maxSides": 128
+}

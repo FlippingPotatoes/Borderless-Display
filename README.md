@@ -1,1 +1,2 @@
-# 8x8-Borderless-Display
+# 8x8-display
+Simple max size display
