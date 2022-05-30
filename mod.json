@@ -1,8 +1,8 @@
 {
-    "name":"8x8-display",
-    "displayName":"8x8 Display",
-    "author":"FlippingPotatoes",
-    "description":"Max size display",
-    "version":"0.0.2",
-    "minGameVersion":"122"
+    "name": "Simple Borderless Displays",
+    "displayName": "Simple Borderless Displays",
+    "author": "FlippingPotatoes",
+    "description": "Just a mod to add displays without borders, for more logic shenanigans.",
+    "version": "0.0.3",
+    "minGameVersion": "122"
 }
